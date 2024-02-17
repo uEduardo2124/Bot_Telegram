@@ -1,6 +1,6 @@
 import telebot
 
-API_key = '6300654909:AAFnA51kcyv1tYhxVzlJBQncSZ642R928FI'
+API_key = 'Key do seu bot'
 
 bot = telebot.TeleBot(API_key)
 
